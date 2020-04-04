@@ -48,7 +48,7 @@ var_dump($converted);
 
 [Collection函数](https://xueyuanjun.com/post/21513)
 
-[Arr函数]([https://xueyuanjun.com/post/21520#bkmrk-%E6%95%B0%E7%BB%84-%26-%E5%AF%B9%E8%B1%A1](https://xueyuanjun.com/post/21520#bkmrk-数组-%26-对象))
+[Arr函数](https://xueyuanjun.com/post/21520#bkmrk-数组-%26-对象)
 
-[Str函数]([https://xueyuanjun.com/post/21520#bkmrk-%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%87%BD%E6%95%B0](https://xueyuanjun.com/post/21520#bkmrk-字符串函数))
+[Str函数]( https://xueyuanjun.com/post/21520#bkmrk-字符串函数)
 
