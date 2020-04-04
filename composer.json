@@ -1,0 +1,23 @@
+{
+    "name": "fanqingxuan/jsonhelper",
+    "authors": [
+        {
+            "name": "json",
+            "email": "fxj@acewill.cn"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5",
+        "doctrine/inflector": "^1.1"
+      },
+     "autoload": {
+        "psr-4": {
+          "JsonHelper\\": "src/JsonHelper"
+        },
+        "files":[
+            "src/JsonHelper/helpers.php"
+          ]
+      },
+      "license": "MIT",
+      "minimum-stability": "dev"
+}
